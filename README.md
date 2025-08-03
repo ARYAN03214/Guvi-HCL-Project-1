@@ -16,6 +16,7 @@ You can view the output here:
 ```bash
 pip install streamlit pandas seaborn
 streamlit run project.py
-sql
-Copy
-Edit
+
+git add README.md
+git commit -m "Add README with live link and PDF output"
+git push
