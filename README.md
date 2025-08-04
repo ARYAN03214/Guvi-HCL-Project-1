@@ -1,4 +1,5 @@
 # 📊 Correlation Analysis Dashboard (Streamlit)
+
 ## 🧾 Problem Statement – 49
 This Streamlit app allows users to upload a CSV and explore correlations visually.
 
@@ -10,7 +11,7 @@ This app enables users to:
 - View a **correlation heatmap** of all numeric columns
 - Choose two variables to visualize with a **scatterplot**
 
-  ## 📄 Output:
+## 📄 Output:
 You can view the output here:
 [Streamlit Dashboard Output (PDF)](./Streamlit.pdf)
 
